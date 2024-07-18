@@ -1,4 +1,4 @@
-import Feed from '@components/Feed';
+import Chatbot from '@components/Chatbot';
 
 
 const page = () => {
@@ -10,8 +10,7 @@ const page = () => {
         </h1>
         
         <p className="desc text-center align-center">Luna AI An open-source chatbot leveraging Generative AI to elevate Customer Service experiences.</p>
-     
-     <Feed />
+        
     </section>
   )
 }
