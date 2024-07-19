@@ -1,5 +1,3 @@
-import Chatbot from '@components/Chatbot';
-
 
 const page = () => {
   return (
@@ -10,7 +8,7 @@ const page = () => {
         </h1>
         
         <p className="desc text-center align-center">Luna AI An open-source chatbot leveraging Generative AI to elevate Customer Service experiences.</p>
-        
+
     </section>
   )
 }
